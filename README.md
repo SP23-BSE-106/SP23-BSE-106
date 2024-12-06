@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SP23-BSE-106
+- 👋 Hi, I’m  Munazza @SP23-BSE-106
 - 👀 I’m interested in Programmimg
 - 🌱 I’m currently learning C Programmimg , Web Development
 - 💞️ I’m looking to collaborate on Software Developers
