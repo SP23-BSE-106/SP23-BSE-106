@@ -41,7 +41,6 @@
 
 ### 🚀 Projects Involved In
 - 🔹 Java-Based Statistical Analyzer (Mean, Median, SD, etc.)
-- 🔹 Airline Reservation System using Java OOP & UML
 - 🔹 Secure Campus Network Design (Cisco & Moon-Earth Communication Lab)
 - 🔹 Microservices with Spring Boot (User & Order Services)
 
