@@ -31,12 +31,12 @@ fun_fact: "The best way to debug a network issue? Just Wireshark it. 🐬"
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,mysql,html,css,js,react,nextjs,spring,git,github,wireshark,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,c,mysql,html,css,js,react,nextjs,spring,git,github,figma&perline=6" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-004080?style=for-the-badge&logo=internetcomputer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
