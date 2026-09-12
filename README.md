@@ -1,71 +1,163 @@
-<h2 align="center">👋 Hi, I'm Munazza (@SP23-BSE-106)</h2>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Hi%20There,%20I'm%20Munazza%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cybersecurity+%2B+AI+Enthusiast;Full-Stack+Developer;Network+%26+Security+Explorer" />
+</a>
+
+</div>
 
 <p align="center">
-  🎓 <strong>Software Engineering Student</strong> at COMSATS University, Pakistan <br>
-  💡 Passionate about <strong>Programming, Cybersecurity, Networking</strong> & <strong>Problem Solving</strong> <br>
-  💻 Exploring <strong>Web Development, Java Projects, Networking Labs, and AI in Cybersecurity</strong> <br>
-  🔒 Hands-on with <strong>Java, Databases, Networking (Cisco, Wireshark), and Next.js</strong> <br>
-  🤝 Open to collaborations in <strong>Software Projects, Cybersecurity Research, and Development Teams</strong>
+  <img src="https://komarev.com/ghpvc/?username=SP23-BSE-106&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/SP23-BSE-106?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
 
-### 🔧 Languages & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### 🧭 About Me
+
+```yaml
+name: Munazza Javed
+role: Software Engineering Student @ COMSATS University, Pakistan
+location: Muzaffarabad, Azad Kashmir 🇵🇰
+focus: [ Programming, Cybersecurity, Networking, Problem Solving ]
+exploring: [ Web Development, Java Projects, AI in Cybersecurity, Cisco Labs ]
+fun_fact: "The best way to debug a network issue? Just Wireshark it. 🐬"
+```
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,mysql,html,css,js,react,nextjs,spring,git,github,wireshark,figma&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-004080?style=for-the-badge&logo=internetcomputer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SP23-BSE-106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP23-BSE-106&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SP23-BSE-106&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SP23-BSE-106&theme=tokyo-night&hide_border=true" />
+</p>
+
+> 💡 *Note: Stats cards need a public activity history to populate — commit, star, and contribute to see these fill in over time.*
 
 ---
 
 ### 🌱 Currently Learning
-- ✅ Full-Stack Web Development (React, Next.js, Express, Node.js, Axios)  
-- ✅ Advanced Java (OOP, Data Structures, Statistical Analysis)  
-- ✅ Networking (Cisco Labs: NAT, OSPF, EIGRP, IGRP, NASA-themed topologies)  
-- ✅ Microservices Architecture with Spring Boot (REST APIs, JPA, H2 DB)  
-- ✅ Cybersecurity & Malware Detection using AI (XAI + Viber datasets)  
-- ✅ Software Design & Architecture (Pipe-and-Filter, Batch Sequential, Microservices)  
+
+| Area | Focus |
+|---|---|
+| 🌐 Full-Stack Development | React, Next.js, Express, Node.js, Axios |
+| ☕ Advanced Java | OOP, Data Structures, Statistical Analysis |
+| 🖧 Networking | Cisco Labs — NAT, OSPF, EIGRP, IGRP |
+| ⚙️ Microservices | Spring Boot, REST APIs, JPA, H2 DB |
+| 🛡️ AI x Cybersecurity | Malware Detection (Vision Transformers + XAI) |
+| 🏗️ Software Architecture | Pipe-and-Filter, Batch Sequential, Microservices |
 
 ---
 
-### 🚀 Projects Involved In
-- 🔹 **Next.js Internship Project** → Built a responsive web app with modern UI/UX and API integration  
-- 🔹 **Malware Detection using Viber + AI** → Hybrid project with Vision Transformers & Explainable AI (XAI)  
-- 🔹 **Java-Based Statistical Analyzer** → Mean, Median, Mode, Variance, SD, Skewness with detailed tables  
-- 🔹 **Garment Customization & Investment System** → Java OOP project with aggregation & composition  
-- 🔹 **Secure Campus Network Design** → Cisco-based network with Earth-Moon communication theme  
-- 🔹 **Networking Labs** → NAT Overload (PAT), OSPF, EIGRP, IGRP, NASA-themed topology  
-- 🔹 **Microservices with Spring Boot** → User, Order, and custom services with REST APIs  
-- 🔹 **React CRUD Project** → Fetching student data using Axios from JSONPlaceholder  
-- 🔹 **Airline Reservation System** → UML diagrams + activity flows (SDA lab midterm)  
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🛡️ Malware Detection using Vision Transformers + XAI**
+Hybrid deep-learning project combining Vision Transformers with Explainable AI to detect and interpret malware behavior.
+
+</td>
+<td width="50%">
+
+**🌐 Next.js Internship Project**
+Responsive full-stack web app with modern UI/UX, API integration, and clean component architecture.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📡 Secure Campus Network (Earth–Moon Theme)**
+Cisco-based network design featuring NAT Overload (PAT), OSPF, EIGRP, and a NASA-inspired topology.
+
+</td>
+<td width="50%">
+
+**⚙️ Microservices with Spring Boot**
+User, Order, and custom services built with REST APIs, JPA, and an H2 database backend.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📈 Java Statistical Analyzer**
+Computes Mean, Median, Mode, Variance, Standard Deviation, and Skewness with clean tabular output.
+
+</td>
+<td width="50%">
+
+**⚛️ React CRUD App**
+Fetches and manages student data using Axios against the JSONPlaceholder API.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🧵 Garment Customization & Investment System**
+Java OOP project modeling real-world business logic via aggregation and composition.
+
+</td>
+<td width="50%">
+
+**✈️ Airline Reservation System**
+UML class + activity diagrams modeling a full reservation workflow (SDA midterm project).
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 How to Reach Me
-- 📧 **Email:** [munazzajaved277@gmail.com](mailto:munazzajaved277@gmail.com)  
-- 🌍 **Location:** Muzaffarabad, Azad Kashmir, Pakistan  
+### 🤝 Let's Collaborate
 
----
-
-### 💬 Fun Fact  
-> “The best way to debug a network issue? Just Wireshark it. 🐬”
-
----
+Open to teaming up on **software projects, cybersecurity research, and development teams.**
 
 <p align="center">
-  🔗 <em>Let’s learn, build, and secure the future together!</em>
+  <a href="mailto:munazzajaved277@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Muzaffarabad,%20Azad%20Kashmir-informational?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
+
+---
+
+<div align="center">
+
+### 💬 *"The best way to debug a network issue? Just Wireshark it."* 🐬
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" />
+
+</div>
 
 <!---
 SP23-BSE-106/SP23-BSE-106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
